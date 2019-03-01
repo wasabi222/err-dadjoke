@@ -1,0 +1,9 @@
+[Core]
+module = dadjoke
+name = Dadjoke
+
+[Documentation]
+description = get a random dad joke
+
+[Python]
+version = 3
